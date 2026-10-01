@@ -31,8 +31,8 @@ import {
 import heroImg from './assets/images/hero_streetwear_hoodie_1790783879211.jpg';
 import menImg from './assets/images/category_men_hoodie_1790783894042.jpg';
 import womenImg from './assets/images/category_women_hoodie_1790783905543.jpg';
-import unisexImg from './assets/images/category_unisex_apparel_1790783919359.jpg';
-import accImg from './assets/images/category_accessories_cap_1790783932075.jpg';
+import unisexImg from "./category_unisex_apparel_1790783919359.jpg";
+import accImg from "./category_accessories_cap_1790783932075.jpg";
 import rackImg from './assets/images/featured_clothing_rack_1790783943429.jpg';
 
 interface Product {
