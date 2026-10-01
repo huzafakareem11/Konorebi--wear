@@ -1,0 +1,182 @@
+[
+  {
+    "orderNumber": "KM-2026-A5C964",
+    "createdAt": "2026-10-01T08:18:43.408Z",
+    "paymentMethod": "Cash on Delivery",
+    "customer": {
+      "name": "Yousuf Sardar",
+      "phone": "03462812467",
+      "email": "yousufsardar1010@gmail.com",
+      "city": "Karachi",
+      "address": "Agrataj colony karachi liyari street no f17",
+      "notes": ""
+    },
+    "items": [
+      {
+        "id": "prod-4",
+        "name": "Washed Stone Low-Profile Cap",
+        "size": "M",
+        "color": "Warm Taupe",
+        "quantity": 1,
+        "price": 2490
+      },
+      {
+        "id": "prod-5",
+        "name": "Tonal Capsule Relaxed Hoodie",
+        "size": "S",
+        "color": "Warm Mocha",
+        "quantity": 1,
+        "price": 8490
+      }
+    ],
+    "subtotal": 10980,
+    "shipping": 250,
+    "total": 11230
+  },
+  {
+    "orderNumber": "KM-2026-F7478F",
+    "createdAt": "2026-10-01T08:22:06.132Z",
+    "paymentMethod": "Cash on Delivery",
+    "customer": {
+      "name": "Yousuf Sardar",
+      "phone": "03252331785",
+      "email": "huzafakareem479@gmail.com",
+      "city": "Karachi",
+      "address": "Agrataj colony karachi liyari street no f17",
+      "notes": ""
+    },
+    "items": [
+      {
+        "id": "prod-6",
+        "name": "Nomad Heavyweight Crewneck",
+        "size": "M",
+        "color": "Earth Dune",
+        "quantity": 1,
+        "price": 7490
+      }
+    ],
+    "subtotal": 7490,
+    "shipping": 250,
+    "total": 7740
+  },
+  {
+    "orderNumber": "KM-2026-70329B",
+    "createdAt": "2026-10-01T08:25:33.586Z",
+    "paymentMethod": "Cash on Delivery",
+    "customer": {
+      "name": "Yousuf Sardar",
+      "phone": "03252331785",
+      "email": "huzafakareem479@gmail.com",
+      "city": "Karachi",
+      "address": "Agrataj colony karachi liyari street no f17",
+      "notes": ""
+    },
+    "items": [
+      {
+        "id": "prod-6",
+        "name": "Nomad Heavyweight Crewneck",
+        "size": "M",
+        "color": "Earth Dune",
+        "quantity": 1,
+        "price": 7490
+      }
+    ],
+    "subtotal": 7490,
+    "shipping": 250,
+    "total": 7740
+  },
+  {
+    "orderNumber": "KM-2026-B0957A",
+    "createdAt": "2026-10-01T08:35:11.771Z",
+    "paymentMethod": "Cash on Delivery",
+    "customer": {
+      "name": "Huzafa Kareem",
+      "phone": "03462812467",
+      "email": "abdulkareem001t@gmail.com",
+      "city": "Karachi",
+      "address": "Karachi",
+      "notes": ""
+    },
+    "items": [
+      {
+        "id": "prod-1",
+        "name": "Espresso Heavyweight Boxy Hoodie",
+        "size": "M",
+        "color": "Deep Espresso",
+        "quantity": 1,
+        "price": 8990
+      }
+    ],
+    "subtotal": 8990,
+    "shipping": 250,
+    "total": 9240
+  },
+  {
+    "orderNumber": "KM-2026-8EA17E",
+    "createdAt": "2026-10-01T08:49:56.071Z",
+    "paymentMethod": "Cash on Delivery",
+    "customer": {
+      "name": "Huzafa Kareem",
+      "phone": "03462812467",
+      "email": "huzafayoutuber@gmail.com",
+      "city": "Karachi",
+      "address": "Agrataj Colony Liyari street 17",
+      "notes": ""
+    },
+    "items": [
+      {
+        "id": "prod-1",
+        "name": "Espresso Heavyweight Boxy Hoodie",
+        "size": "M",
+        "color": "Deep Espresso",
+        "quantity": 1,
+        "price": 8990
+      },
+      {
+        "id": "prod-2",
+        "name": "Oatmeal Fleece Minimalist Pullover",
+        "size": "M",
+        "color": "Oat Sand",
+        "quantity": 1,
+        "price": 7990
+      },
+      {
+        "id": "prod-3",
+        "name": "Atelier Signature Oversized Hoodie",
+        "size": "M",
+        "color": "Dark Charcoal",
+        "quantity": 1,
+        "price": 9490
+      }
+    ],
+    "subtotal": 26470,
+    "shipping": 0,
+    "total": 26470
+  },
+  {
+    "orderNumber": "KM-2026-9C2999",
+    "createdAt": "2026-10-01T09:26:05.004Z",
+    "paymentMethod": "Cash on Delivery",
+    "customer": {
+      "name": "Huzaifa Kareem",
+      "phone": "03252331785",
+      "email": "Huzafayoutuber@gmail.com",
+      "city": "Karachi",
+      "address": "Agrataj colony liyari",
+      "notes": ""
+    },
+    "items": [
+      {
+        "id": "prod-1",
+        "name": "Espresso Heavyweight Boxy Hoodie",
+        "size": "M",
+        "color": "Deep Espresso",
+        "quantity": 1,
+        "price": 8990
+      }
+    ],
+    "subtotal": 8990,
+    "shipping": 250,
+    "total": 9240
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "name": "Komorebi Wear",
+  "description": "Modern minimalist streetwear and lifestyle clothing storefront inspired by warm earthy aesthetics, premium fleece, and effortless daily comfort.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
